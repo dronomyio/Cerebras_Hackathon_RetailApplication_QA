@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "productId": "voxl-2",
+      "name": "ModalAI VOXL 2",
+      "description": "The ModalAI VOXL 2 is a powerful computing platform designed for autonomous drones and robots. It features advanced processing capabilities, multiple camera inputs, and integrated connectivity options.",
+      "category": "Computing Platforms",
+      "price": 1299.99,
+      "specifications": [
+        "Qualcomm QRB5165 processor",
+        "8GB LPDDR5 RAM",
+        "128GB UFS storage",
+        "Multiple camera inputs",
+        "Wi-Fi 6 and Bluetooth 5.1",
+        "GPS/GNSS receiver"
+      ],
+      "features": [
+        "High-performance computing for autonomous systems",
+        "Advanced computer vision capabilities",
+        "Low power consumption",
+        "Compact form factor",
+        "Multiple connectivity options"
+      ],
+      "faqs": [
+        "Q: What is the ModalAI VOXL 2? A: The ModalAI VOXL 2 is a powerful computing platform designed for autonomous drones and robots, featuring advanced processing capabilities and multiple connectivity options.",
+        "Q: What processor does the VOXL 2 use? A: The VOXL 2 uses a Qualcomm QRB5165 processor.",
+        "Q: How much RAM does the VOXL 2 have? A: The VOXL 2 comes with 8GB of LPDDR5 RAM."
+      ]
+    },
+    {
+      "productId": "drone-x1",
+      "name": "DroneX Pro",
+      "description": "The DroneX Pro is a compact, foldable drone with 4K camera capabilities, designed for both beginners and experienced pilots. It offers stable flight performance and high-quality aerial photography.",
+      "category": "Drones",
+      "price": 499.99,
+      "specifications": [
+        "4K Ultra HD Camera",
+        "30 minutes flight time",
+        "2km control range",
+        "Foldable design",
+        "GPS positioning",
+        "Return-to-home function"
+      ],
+      "features": [
+        "One-key takeoff and landing",
+        "Headless mode for beginners",
+        "Follow-me mode",
+        "Gesture control for photos",
+        "Altitude hold"
+      ],
+      "faqs": [
+        "Q: What is the DroneX Pro? A: The DroneX Pro is a compact, foldable drone with a 4K camera, designed for both beginners and experienced pilots.",
+        "Q: How long can the DroneX Pro fly? A: The DroneX Pro can fly for approximately 30 minutes on a single battery charge.",
+        "Q: Is the DroneX Pro suitable for beginners? A: Yes, the DroneX Pro has several beginner-friendly features like headless mode and one-key takeoff/landing."
+      ]
+    }
+  ]
+}
